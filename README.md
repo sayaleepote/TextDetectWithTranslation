@@ -5,9 +5,9 @@ This app detects the text from a picture input using camera or photos gallery of
 Before you run the project, open <b>terminal</b> and go to the root folder of the project and type:<br>
 <b><i>$ pod install</b></i><br>
 This will install the following required pods: <br>
-'Firebase/Core' <br>
-'Firebase/MLVision' <br>
-'Firebase/MLVisionTextModel'
+'Firebase/Core', '~> 5.2.0' <br>
+'Firebase/MLVision', '~> 5.2.0' <br>
+'Firebase/MLVisionTextModel', '~> 5.2.0'
 <br><br>
 If cocoapods is not already installed, install it with following gem command.<br>
 <b><i>$ sudo gem install cocoapods</b></i>
