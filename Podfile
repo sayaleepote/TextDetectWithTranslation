@@ -7,7 +7,7 @@ target 'TextDetect' do
 
   # Pods for TextDetect
   pod 'Firebase/Core', '~> 5.2.0' 
-  pod 'Firebase/MLVision', ~> '5.2.0'
+  pod 'Firebase/MLVision', '~> 5.2.0' 
   pod 'Firebase/MLVisionTextModel', '~> 5.2.0'
 
 end
